@@ -1,2 +1,4 @@
-# python-logger
+# Python Logger
+
 A simple logging class in Python.
+
